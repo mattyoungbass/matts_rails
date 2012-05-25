@@ -1,0 +1,8 @@
+Fri, 25 May 2012 11:56:49 -0500
+doc/README_FOR_APP	Fri, 25 May 2012 07:51:33 -0500
+app/controllers/about_controller.rb	Fri, 25 May 2012 09:24:58 -0500
+app/controllers/application_controller.rb	Fri, 25 May 2012 07:51:31 -0500
+app/controllers/welcome_controller.rb	Fri, 25 May 2012 09:04:53 -0500
+app/helpers/about_helper.rb	Fri, 25 May 2012 09:24:59 -0500
+app/helpers/application_helper.rb	Fri, 25 May 2012 07:51:31 -0500
+app/helpers/welcome_helper.rb	Fri, 25 May 2012 09:04:53 -0500

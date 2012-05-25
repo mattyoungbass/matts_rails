@@ -9,5 +9,24 @@
  * compiled file, but it's generally better to create a new file per style scope.
  *
  *= require_self
- *= require_tree .
+ *= require_tree
 */
+body {
+	background: url(http://images2.fanpop.com/images/photos/7800000/Nature-Full-HD-Wallpaper-national-geographic-7822275-1920-1080.jpg) no-repeat;
+	font-family: arial, sans-serif;
+	color: #fff;
+}
+h1, h2, h3, h4, h5, h6 {
+	color: #999;
+}
+a, a:link, a:visited {
+	color: yellow;
+}
+a:hover, a:focus {
+	color: #fff;
+}
+#content {	
+	background: url(http://www.chicagowebguru.com/images/div-bg.png) repeat top left;
+	padding: 20px;
+	margin: 100px;
+}
